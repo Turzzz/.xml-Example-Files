@@ -4,7 +4,15 @@
 	
 			<id>1</id>
 			<name>John Doe</name>
-			<address>H# 38, R#3, Banani, Dhaka</address>
+			<address>
+			    
+				<flat_no></flat_no>
+				<house_no>H# 38</house_no>
+				<road_no>R#3</road_no>
+				<area>Banani</area>
+				<city>Dhaka</city>
+				
+			</address>
 			<department>Sales</department>
 			<salary>$20000</salary>
 
@@ -15,7 +23,15 @@
 	
 			<id>2</id>
 			<name>Mark Zuckerberg</name>
-			<address>Flat# A/1, H# 20, R#18, Mirpur, Dhaka</address>
+			<address>
+				
+				<flat_no>Flat# A/1</flat_no>
+				<house_no>H# 20</house_no>
+				<road_no>R#18</road_no>
+				<area>Mirpur</area>
+				<city>Dhaka</city>
+				
+			</address>
 			<department>Accounts</department>
 			<salary>$12000</salary>
 
@@ -26,7 +42,15 @@
 	
 			<id>3</id>
 			<name>Ala Voski</name>
-			<address>H# 38, R#3, Motijheel</address>
+			<address>
+				
+				<flat_no></flat_no>
+				<house_no>H# 38</house_no>
+				<road_no>R#3</road_no>
+				<area>Motijheel</area>
+				<city></city>
+				
+			</address>
 			<department>Human Resource</department>
 			<salary>$30000</salary>
 
